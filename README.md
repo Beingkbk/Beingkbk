@@ -1,6 +1,6 @@
 # Hi there, I'm Kartik Kapse! 🚀
 
-![Kartik's Banner](https://source.unsplash.com/1600x400/?technology,innovation)
+![Kartik's Banner](https://github.com/Beingkbk/Beingkbk/blob/main/banner.jpg?raw=true)
 
 ## 👨‍💻 About Me
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Kartik Kapse, an AI engineer with a passion for innova
 
 ### 🚀 Journey So Far:
 - 🎓 **Bachelor’s in Electrical Engineering**  
-- 📚 **Master’s in AI Engineering for Autonomous Systems** at Technische Hochschule Ingolstadt
+- 📚 **Master’s in AI Engineering of Autonomous Systems** at Technische Hochschule Ingolstadt
 - 🤖 **Autonomous Driving Enthusiast** – Developing intelligent agents in **MetaDrive**
 - 📊 **Exploring Data Science & Cloud Computing** for scalable AI solutions
 - 🔍 **Active Researcher** – Currently working on my paper: _"End-to-End Learning vs. Modular Architectures: Comparative Insights into Autonomous Driving Systems"_
