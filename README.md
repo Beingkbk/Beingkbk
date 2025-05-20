@@ -35,8 +35,8 @@ Welcome to my GitHub! I'm Kartik Kapse, an AI engineer with a passion for innova
 ---
 
 ## 🔥 Current Roles & Applications
-🔹 **Developing AI-based solutions** for real-world industry applications  
-🔹 **Internship Applicant** @ BMW, Audi, CARIAD, IAV, Fraunhofer IKS  
+🔹 **Student Assistant @AIMotion Baveria, TH Ingolstadt** – Supporting academic and research activities in ModFL   
+🔹 **Developing AI-based solutions** for real-world industry applications
 
 ---
 
